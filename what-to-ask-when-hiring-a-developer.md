@@ -1,4 +1,4 @@
-Cool random questions
+Questions to ask if you have 30 mins:
 =
 1. how many languages do your know? ie on how many languages are you able to pass FizzBuzz test in 7 mins? 
 http://c2.com/cgi/wiki?FizzBuzzTest 
