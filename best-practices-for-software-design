@@ -1,0 +1,13 @@
+Best Practices / Things to Consider for Software Development
+1) Identify problem you are trying to solve, audience and how to reach them
+  - Regarding engaging audience, evaluate whether website, mobile website or app is best way to engage them and maintain active participation
+  - What will you build first?
+  - what platform should you be using if mobile? coding language?
+2) Define user stories and job stories to flesh out basic needs
+3) Create MVP to get quick feedback
+4) Make adjustments from MVP and further flesh out user/job stories
+5) Aim to create code that:
+  - writes code
+  - is designed to be tested to avoid mistakes
+  - is reusable
+6) When hiring, make sure your developer is passionate/cares about craft - he/she will write code that provides solutions, not just quick hacks.
