@@ -12,3 +12,6 @@
   - Althougth the engineering culture can be intimidating to some who isnt indoctrinated, it is crucial to keep open lines 
 - Dont get intimidated by the thought of a really smart person coding away in a dark room, being friendly and open as people can only serve to help the process and product
   
+- Interesting article highlighting the importance of culture and communication in the coding world within a corporation:
+  - http://littlehart.net/atthekeyboard/2013/03/30/grumpy-culture/
+- My favorite quote "We work FOR people USING computers. The computer is a tool to achieve a goal. Those goals are achieved by working with others, whether you wish to believe that or not."
